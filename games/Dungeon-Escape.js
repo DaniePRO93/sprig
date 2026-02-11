@@ -175,7 +175,7 @@ F9F69F9999999999` ],
 9996999999999999` ]
 )
 
-setSolids([player, wall, key, box, lavatop, lavastream])
+setSolids([player, wall, key, box, lavatop, lavastream, lavapool])
 
 let level = 0
 const levels = [
